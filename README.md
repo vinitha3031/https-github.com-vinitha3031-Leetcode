@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3731-find-missing-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3731-find-missing-elements) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
