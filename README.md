@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [3731-find-missing-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3731-find-missing-elements) |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Graph
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
