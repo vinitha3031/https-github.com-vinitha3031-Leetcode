@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0717-1-bit-and-2-bit-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0997-find-the-town-judge](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
