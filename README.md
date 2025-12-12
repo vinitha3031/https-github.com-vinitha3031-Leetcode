@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0997-find-the-town-judge) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
