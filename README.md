@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Math
+|  |
+| ------- |
+| [3516-find-closest-person](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3516-find-closest-person) |
 <!---LeetCode Topics End-->
