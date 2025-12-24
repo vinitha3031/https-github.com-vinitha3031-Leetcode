@@ -85,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3516-find-closest-person](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3516-find-closest-person) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
