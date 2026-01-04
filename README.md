@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0997-find-the-town-judge](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1390-four-divisors](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1390-four-divisors) |
 | [1748-sum-of-unique-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1390-four-divisors](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1390-four-divisors) |
 | [3516-find-closest-person](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3516-find-closest-person) |
 ## Divide and Conquer
 |  |
