@@ -111,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0766-toeplitz-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
