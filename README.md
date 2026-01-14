@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0620-not-boring-movies) |
 | [1729-find-followers-count](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
