@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0506-relative-ranks) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0766-toeplitz-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0997-find-the-town-judge](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0997-find-the-town-judge) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0506-relative-ranks) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
