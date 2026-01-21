@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0506-relative-ranks) |
+| [0643-maximum-average-subarray-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0766-toeplitz-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0997-find-the-town-judge](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0997-find-the-town-judge) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0506-relative-ranks) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
