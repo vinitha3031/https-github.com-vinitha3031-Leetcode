@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1518-water-bottles) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3516-find-closest-person](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3516-find-closest-person) |
 ## Divide and Conquer
 |  |
