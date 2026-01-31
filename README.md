@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0766-toeplitz-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0942-di-string-match](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0942-di-string-match) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Prefix Sum
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0682-baseball-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1518-water-bottles](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1518-water-bottles) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
