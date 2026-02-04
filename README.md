@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1518-water-bottles) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3516-find-closest-person](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0942-di-string-match) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
