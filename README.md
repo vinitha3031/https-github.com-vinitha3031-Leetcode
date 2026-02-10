@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0506-relative-ranks) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Stack
 |  |
 | ------- |
