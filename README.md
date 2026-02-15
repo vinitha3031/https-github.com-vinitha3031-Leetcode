@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0067-add-binary) |
 | [0482-license-key-formatting](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0482-license-key-formatting) |
 | [0657-robot-return-to-origin](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0859-buddy-strings](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0859-buddy-strings) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0682-baseball-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0067-add-binary) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1390-four-divisors) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
