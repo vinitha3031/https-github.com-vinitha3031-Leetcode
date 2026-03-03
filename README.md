@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0942-di-string-match) |
 | [0997-find-the-town-judge](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0997-find-the-town-judge) |
+| [1046-last-stone-weight](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1390-four-divisors](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1390-four-divisors) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1046-last-stone-weight) |
 ## Sliding Window
 |  |
 | ------- |
