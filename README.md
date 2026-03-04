@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1089-duplicate-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0067-add-binary) |
 | [0482-license-key-formatting](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0482-license-key-formatting) |
 | [0657-robot-return-to-origin](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0859-buddy-strings) |
 | [0942-di-string-match](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Prefix Sum
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1518-water-bottles](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1518-water-bottles) |
