@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2490-circular-sentence](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2490-circular-sentence) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3136-valid-word](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3136-valid-word) |
