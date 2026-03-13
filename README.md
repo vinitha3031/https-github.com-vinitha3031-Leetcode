@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3731-find-missing-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Math
 |  |
 | ------- |
