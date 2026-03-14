@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0766-toeplitz-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0860-lemonade-change](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0867-transpose-matrix) |
 | [0941-valid-mountain-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0942-di-string-match) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0942-di-string-match) |
 ## Number Theory
 |  |
