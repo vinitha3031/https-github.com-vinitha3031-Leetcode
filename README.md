@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3452-sum-of-good-numbers](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3731-find-missing-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
