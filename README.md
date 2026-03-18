@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0859-buddy-strings) |
 | [0942-di-string-match](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0942-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Prefix Sum
 |  |
