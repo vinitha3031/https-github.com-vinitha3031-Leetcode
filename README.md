@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2490-circular-sentence](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2490-circular-sentence) |
