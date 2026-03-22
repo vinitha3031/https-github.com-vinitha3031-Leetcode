@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1518-water-bottles](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1518-water-bottles) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
