@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2490-circular-sentence](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2490-circular-sentence) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
