@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3136-valid-word](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3136-valid-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3330-find-the-original-typed-string-i) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3731-find-missing-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Stack
 |  |
 | ------- |
