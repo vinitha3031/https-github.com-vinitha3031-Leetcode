@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1390-four-divisors](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
 | ------- |
