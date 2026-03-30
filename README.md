@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3136-valid-word](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3136-valid-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3731-find-missing-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3731-find-missing-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3731-find-missing-elements) |
