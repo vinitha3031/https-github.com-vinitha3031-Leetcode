@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3136-valid-word](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3136-valid-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/3330-find-the-original-typed-string-i) |
