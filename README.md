@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
