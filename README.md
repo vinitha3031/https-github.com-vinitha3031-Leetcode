@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0506-relative-ranks](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0682-baseball-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
