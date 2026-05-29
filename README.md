@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0766-toeplitz-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0860-lemonade-change) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
