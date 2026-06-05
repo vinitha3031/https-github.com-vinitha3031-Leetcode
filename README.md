@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1539-kth-missing-positive-number](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
