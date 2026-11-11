@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1539-kth-missing-positive-number](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1652-defuse-the-bomb](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
