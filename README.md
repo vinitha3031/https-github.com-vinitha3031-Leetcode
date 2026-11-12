@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1480-running-sum-of-1d-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1652-defuse-the-bomb) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Graph
 |  |
