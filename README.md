@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0067-add-binary) |
 | [0482-license-key-formatting](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0482-license-key-formatting) |
 | [0657-robot-return-to-origin](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0859-buddy-strings](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0859-buddy-strings) |
 | [0997-find-the-town-judge](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0997-find-the-town-judge) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
