@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0070-climbing-stairs) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1390-four-divisors](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/1390-four-divisors) |
@@ -257,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
