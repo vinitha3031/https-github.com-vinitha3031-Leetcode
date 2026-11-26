@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0506-relative-ranks](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/vinitha3031/https-github.com-vinitha3031-Leetcode/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
